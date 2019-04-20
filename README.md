@@ -27,6 +27,7 @@ Telegram is a messaging app with a focus on speed and security, it’s super-fas
 * [cycle-telegram](https://github.com/goodmind/cycle-telegram) - `Typescript` Cycle.js Driver for Telegram Bot API
 * [etelegram](https://github.com/tnt-dev/etelegram) - `Erlang`
 * [haskell-telegram-api](http://github.com/klappvisor/haskell-telegram-api) - `Haskell` High-level bindings to the Telegram Bot API based on servant library
+* [java-telegram-bot-api](https://github.com/pengrad/java-telegram-bot-api) - `Java` Telegram Bot API for Java
 * [libtelegram](https://github.com/slowriot/libtelegram) - `C++` Fast, efficient, header-only C++ Telegram bot API library using FastCGI
 * [morse](https://github.com/Otann/morse) - `Clojure`
 * [node-telegram-bot-api](https://github.com/yagop/node-telegram-bot-api) - `JavaScript` Telegram Bot API for NodeJS
